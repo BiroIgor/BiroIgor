@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Igor Pereira
-- 🌱 I’m currently learning JAVA/SQL
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me > igorkank@hotmail.com
