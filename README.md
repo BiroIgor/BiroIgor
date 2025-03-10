@@ -4,7 +4,7 @@
 
 ![Hi, I’m Igor Pereira](https://img.shields.io/badge/Hi,_I’m-Igor_Pereira-6a0dad?style=flat)  
 ![Currently Learning](https://img.shields.io/badge/Currently_Learning-JavaScript_&_TypeScript-6a0dad?style=flat)  
-![How to Reach Me](https://img.shields.io/badge/How_to_Reach_Me-igorkank@hotmail.com-9b59b6?style=flat)
+![How to Reach Me](https://img.shields.io/badge/How_to_Reach_Me-igorkank@hotmail.com-6a0dad?style=flat)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
