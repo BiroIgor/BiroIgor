@@ -17,5 +17,5 @@
   
 ![BiroIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,icons=true&theme=midnight-purple&count_private=true&locale=pt-br&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiroIgor&theme=midnight-purple&layout=compact&locale=pt-br&card_width=495&hide_border=true)](https://github.com/BiroIgor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiroIgor&theme=midnight-purple&layout=compact&locale=pt-br&card_width=495&hide_border=true&count_private=true)](https://github.com/BiroIgor/github-readme-stats)
 </div>
