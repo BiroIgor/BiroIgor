@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
   
-![BiroIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,icons=true&theme=midnight-purple)
+![BiroIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,icons=true&theme=midnight-purple&count_private=true)
 
-![BiroIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show_icons=true&theme=midnight-purple)
+![BiroIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show_icons=true&theme=midnight-purple&count_private=true)
 </div>
