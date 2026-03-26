@@ -83,12 +83,6 @@
 
 ---
 
-## 📦 Projeto em Destaque
-
-<div align="center">
-  
-[![GitHub Crawler API](https://github-readme-stats.vercel.app/api/pin/?username=BiroIgor&repo=github-crawler-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=6a0dad&icon_color=6a0dad)](https://github.com/BiroIgor/github-crawler-api)
-
 </div>
 
 <table align="center">
