@@ -1,8 +1,8 @@
 <div align="center">
   
-# 🚀 Igor Pereira
+#  Igor Pereira
 
-### Desenvolvedor Backend | Especialista em Node.js & TypeScript
+
 
 [![Profile](https://img.shields.io/badge/-Backend_Developer-6a0dad?style=for-the-badge)](https://github.com/BiroIgor)
 [![Email](https://img.shields.io/badge/-igorkank@hotmail.com-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorkank@hotmail.com)
