@@ -1,38 +1,112 @@
 <div align="center">
   
-#  Igor Pereira
+# 👋 Igor Gottscheffsky Pereira
 
+### Desenvolvedor Backend
 
-
-[![Profile](https://img.shields.io/badge/-Backend_Developer-6a0dad?style=for-the-badge)](https://github.com/BiroIgor)
-[![Email](https://img.shields.io/badge/-igorkank@hotmail.com-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorkank@hotmail.com)
-
----
-
-### 💻 Tech Stack
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Email](https://img.shields.io/badge/igorkank@hotmail.com-6a0dad?style=flat&logo=gmail&logoColor=white)](mailto:igorkank@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-gottscheffsky-pereira)
+[![GitHub](https://img.shields.io/badge/BiroIgor-181717?style=flat&logo=github&logoColor=white)](https://github.com/BiroIgor)
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BiroIgor&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiroIgor&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117)
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br/>
+      <b>Java 17+</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><br/>
+      <b>Spring Boot</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/>
+      <b>Node.js</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><br/>
+      <b>Angular 17+</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/><br/>
+      <b>Redis</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/><br/>
+      <b>RabbitMQ</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/>
+      <b>Docker</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/><br/>
+      <b>GitLab CI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/><br/>
+      <b>Maven</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/>
+      <b>Express</b>
+    </td>
+  </tr>
+</table>
 
 ---
-### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorgottscheffsky)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igorkank@hotmail.com)
+## 📦 Projeto em Destaque
+
+<div align="center">
+  
+[![GitHub Crawler API](https://github-readme-stats.vercel.app/api/pin/?username=BiroIgor&repo=github-crawler-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=6a0dad&icon_color=6a0dad)](https://github.com/BiroIgor/github-crawler-api)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">🎯 <b>Arquitetura DDD</b></td>
+    <td align="center">📨 <b>RabbitMQ + DLQ</b></td>
+    <td align="center">🕷️ <b>Crawler HTTP puro</b></td>
+    <td align="center">🗄️ <b>PostgreSQL + MongoDB</b></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiroIgor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6a0dad&icon_color=6a0dad"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiroIgor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6a0dad"/>
+</div>
 
 </div>
