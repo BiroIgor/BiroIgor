@@ -46,27 +46,3 @@
 </p>
 
 ---
-
-## 🔥 Destaques Técnicos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-6a0dad?style=for-the-badge&logo=microgen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DDD-6a0dad?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOLID-6a0dad?style=for-the-badge&logo=solid&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TDD-85%25-6a0dad?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-6a0dad?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Security-6a0dad?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-6a0dad?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI_CD-6a0dad?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-| Tecnologias | Descrição |
-|:-----------:|:---------:|
-| **TypeScript** | **Node.js** | **Express** |
-| **RabbitMQ** | **PostgreSQL** | **MongoDB** |
-| **Crawlee** | **Cheerio** | **Docker** |
