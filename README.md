@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1300&color=A78BFA&center=true&vCenter=true&width=640&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React;Analista+de+Desenvolvimento+%40+Unimed+Noroeste+RS;Do+legado+Java%2FSwing+aos+microsservi%C3%A7os;Construindo+o+novo+CRM+Web+em+React+19" alt="Java · Spring Boot · React"/>
 
-*Java, Spring, Node e um pouquinho de magia* 🧙‍♂️
-
 <a href="mailto:igorkank@hotmail.com"><img src="https://img.shields.io/badge/igorkank%40hotmail.com-16121f?style=flat-square&logo=minutemailer&logoColor=a78bfa" alt="E-mail"/></a>
 <a href="https://linkedin.com/in/igor-gottscheffsky-pereira"><img src="https://img.shields.io/badge/igor--gottscheffsky--pereira-16121f?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2E3OGJmYSI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMyIvPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0LjIiIGhlaWdodD0iMTIiLz48cGF0aCBkPSJNOS41IDloNHYxLjhjLjctMS4yIDIuMS0yLjIgNC4yLTIuMiAzLjYgMCA0LjMgMi4zIDQuMyA1LjRWMjFoLTQuMnYtNi4yYzAtMS41LS4xLTMuMy0yLjEtMy4zcy0yLjMgMS42LTIuMyAzLjJWMjFIOS41eiIvPjwvZz48L3N2Zz4%3D" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Iju%C3%AD%2C_RS-16121f?style=flat-square&logo=googlemaps&logoColor=a78bfa" alt="Ijuí, RS"/>
