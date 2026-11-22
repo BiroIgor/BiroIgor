@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="assets/character-sheet.svg" width="100%" alt="Ficha de personagem: Necromancer Full Stack. Backend 18, Arquitetura 17, Dados 16, DevOps 15, Frontend 14, Documentação 15."/>
+<img src="assets/character-sheet.svg" width="100%" alt="Ficha de personagem: Full Stack. Backend 18, Arquitetura 17, Dados 16, DevOps 15, Frontend 14, Documentação 15."/>
 
 </div>
 
